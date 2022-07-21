@@ -1,0 +1,7 @@
+{
+  "env": {
+      "MONGO_USER": "mwest",
+      "MONGO_PASSWORD": "todolist",
+      "MONGO_DB": "cluster0"
+  }
+}
