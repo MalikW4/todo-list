@@ -1,5 +1,4 @@
 # Todo App with React, Express, TypeScript, NodeJS, and MongoDB
-
 ## Screenshot
 ![taskapp-screenshot](https://user-images.githubusercontent.com/109000703/191742120-4cfc25e1-bd41-430e-ad1d-48e3834ff8b2.png)
 
